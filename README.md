@@ -5,6 +5,6 @@ The data for the historical home prices was recieved from this site:
 
 https://dqydj.com/historical-home-prices/
 
-I learned how to build a linear regression model for machine learning using Python from this video: 
+I learned how to build linear regression models for machine learning using Python from this video: 
 
 https://www.youtube.com/watch?v=R15LjD8aCzc  
